@@ -28,10 +28,10 @@ Selection of projects organized from my recent specialization in backend and arc
 |[e-commerce_Backend](https://github.com/ManuteDev/E-COMMERCE_BACKEND)|Backend|Clean Architecture, TDD, and AI-assisted development.|
 |[Webserv](https://github.com/ManuteDev/webserv)|Systems|HTTP/1.1 server in C++, I/O multiplexing, and sockets.|
 |[Inception](https://github.com/ManuteDev/Inception)|DevOps|Infrastructure orchestration with Docker, Nginx, and microservices.|
-|[Philosophers]|Concurrency|Thread management, mutexes, and deadlock resolution.|
+|Philosophers|Concurrency|Thread management, mutexes, and deadlock resolution.|
 |[Minishell](https://github.com/ManuteDev/Minishell)|Systems|Unix interpreter, process management, and signal resilience.|
 |[Fdf](https://github.com/ManuteDev/FDF)|Graphics|3D visualization via isometric projections.|
-|[Push_swap]|Algorithms|Optimized sorting algorithms and Big O complexity analysis.|
+|Push_swap|Algorithms|Optimized sorting algorithms and Big O complexity analysis.|
 
 ## 🛠 Technical Arsenal
 
