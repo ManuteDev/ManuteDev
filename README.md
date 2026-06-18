@@ -1,6 +1,6 @@
 ## Manu Díaz Oraá | Software Engineer
 
-I am a Software Engineer trained under the rigorous methodology of **42**3ª posición mundial en innovación, with a solid professional background in **Industrial Design and BIM modeling**.
+I am a Software Engineer trained under the rigorous methodology of **42** https://www.42urduliz.com/actualidad/ranking-wuri-2026/, with a solid professional background in **Industrial Design and BIM modeling**.
 
 My career has evolved from solving complex technical challenges in industrial environments to **Systems Architecture and Full-Stack Development**. This transition allows me to apply a mindset of technical precision, exhaustive documentation, and modular structuring to software development, ensuring systems are scalable, maintainable, and production-grade.
 
