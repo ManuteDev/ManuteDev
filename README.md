@@ -52,7 +52,7 @@ Selection of projects organized from my recent specialization in backend and arc
 | **Project** | **Domain** | **Key Engineering Highlights** |
 | --- | --- | --- |
 | [e-commerce_Backend](https://github.com/ManuteDev/E-COMMERCE_BACKEND) | Backend | Clean Architecture, TDD, and AI-assisted development. |
-| [Transcendence](https://www.google.com/search?q=https://github.com/ManuteDev/Transcendence) | Full-Stack / DevOps | Ruby on Rails, React, WebSockets, Docker containerization, and dual-branch deployment strategy. |
+| [Transcendence](https://github.com/ManuteDev/Transcendence) | Full-Stack / DevOps | Ruby on Rails, React, WebSockets, Docker containerization, and dual-branch deployment strategy. |
 | [Webserv](https://github.com/ManuteDev/webserv) | Systems | HTTP/1.1 server in C++, I/O multiplexing, and sockets. |
 | [Inception](https://github.com/ManuteDev/Inception) | DevOps | Infrastructure orchestration with Docker, Nginx, and microservices. |
 | Philosophers | Concurrency | Thread management, mutexes, and deadlock resolution. |
